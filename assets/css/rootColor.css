@@ -1,0 +1,7 @@
+:root{
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: rgba(51, 51, 51, 0.705);
+    --primary-color: linear-gradient(to right, #fc6076, #e75516);
+    --backGround-icon-light: #6161611a;
+}
