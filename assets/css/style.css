@@ -12,13 +12,13 @@
 }
 
 .home {
-  background: url(/assets/images/bg-home-light.jpg);
+  background: url(./assets/images/bg-home-light.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .home-dark{
-    background: url(/assets/images/bg-home-dark.jpg);
+    background: url(./assets/images/bg-home-dark.jpg);
 }
 /* navbar CSS */
 .dark-light-icon{
